@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+ * {
+    padding: 0px;
+    margin: 0px;
+}
+.nav-bar a {
+    text-decoration: none;
+    font-size: 21px;
+    color: chartreuse;
+    padding: 3%;
+    margin-right: 13%;
+    }
+.nav-bar {
+    text-decoration: none;
+    padding: 22px;
+    background: #26271e;
+    border: 5px solid;
+    border-radius: 26px;
+    border-block-color: green;
+    
+}
+header {
+    position: fixed;
+    margin-top: 0px;
+    padding: 10px;
+}
+#l {
+    align-items: end;
+    /* margin: 61px; */
+    /* padding: 15px; */
+    /* margin-left: 8px; */
+    /* margin-right: 137px; */
+    position: relative;
+    left: 150px;
+}
+header{
+width:97%;
+margin-left: 11px;
+
+ }
